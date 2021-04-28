@@ -10,4 +10,4 @@ This is a composite list so if you want to add just send a PR. And thank you!
 
 # Contents
 
-* [Certification in TC](vrtification.md0
+* [Certification in TC](certification.md)
