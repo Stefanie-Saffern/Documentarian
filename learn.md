@@ -27,6 +27,8 @@ A mix of masters and bachelors programs are available in person or online
 * WritePoint Technical Writing Course - fully online, ondemand. (details: wp@writepoint.com)
 * [Comtech Services](https://comtech-serv.com/)
 * [Icon Logic](https://www.iconlogic.com/)
+* I'd Rather be Writing - the [API documentation course](https://idratherbewriting.com/learnapidoc/)
+* [Writing great documentation](https://www.youtube.com/watch?v=z3fRu9pkuXE) by Jacob Kaplan-Moss - co-creator of Django 
 
 ## Webinars / Recordings
 
