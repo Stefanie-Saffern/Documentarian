@@ -10,4 +10,4 @@ This is a composite list so if you want to add just send a PR. And thank you!
 
 # Contents
 
-* [Certification in TC](certification.md)
+* [Learn TC](learn.md)
